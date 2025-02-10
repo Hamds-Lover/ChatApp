@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Hamds-Lover/ChatApp/static/js/main.31456081.js",
-    "index.html": "/Hamds-Lover/ChatApp/index.html",
-    "main.31456081.js.map": "/Hamds-Lover/ChatApp/static/js/main.31456081.js.map"
+    "main.js": "/ChatApp/static/js/main.31456081.js",
+    "index.html": "/ChatApp/index.html",
+    "main.31456081.js.map": "/ChatApp/static/js/main.31456081.js.map"
   },
   "entrypoints": [
     "static/js/main.31456081.js"
